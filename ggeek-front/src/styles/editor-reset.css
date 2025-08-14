@@ -1,0 +1,103 @@
+.ck-content html {
+  color: #000;
+  background: #fff;
+}
+.ck-content body,
+.ck-content div,
+.ck-content dl,
+.ck-content dt,
+.ck-content dd,
+.ck-content ul,
+.ck-content ol,
+.ck-content li,
+.ck-content h1,
+.ck-content h2,
+.ck-content h3,
+.ck-content h4,
+.ck-content h5,
+.ck-content h6,
+.ck-content pre,
+.ck-content code,
+.ck-content form,
+.ck-content fieldset,
+.ck-content legend,
+.ck-content input,
+.ck-content textarea,
+.ck-content p,
+.ck-content blockquote,
+.ck-content th,
+.ck-content td {
+  margin: 0;
+  line-height: 1.8;
+  /* padding:0 */
+}
+.ck-content table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.ck-content fieldset,
+.ck-content img {
+  border: 0;
+}
+.ck-content address,
+.ck-content caption,
+.ck-content cite,
+.ck-content code,
+.ck-content dfn,
+.ck-content em,
+.ck-content strong,
+.ck-content th,
+.ck-content var {
+  /* font-style:normal;
+  font-weight:normal */
+}
+.ck-content ol,
+.ck-content ul {
+  list-style: none;
+}
+.ck-content caption,
+.ck-content th {
+  text-align: left;
+}
+.ck-content h1,
+.ck-content h2,
+.ck-content h3,
+.ck-content h4,
+.ck-content h5,
+.ck-content h6 {
+  /* font-size:100%;
+  font-weight:normal */
+}
+.ck-content q:before,
+.ck-content q:after {
+  content: "";
+}
+.ck-content abbr,
+.ck-content acronym {
+  border: 0;
+  font-variant: normal;
+}
+.ck-content sup {
+  vertical-align: text-top;
+}
+.ck-content sub {
+  vertical-align: text-bottom;
+}
+.ck-content input,
+.ck-content textarea,
+.ck-content select {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+}
+.ck-content input,
+.ck-content textarea,
+.ck-content select {
+  *font-size: 100%;
+}
+.ck-content legend {
+  color: #000;
+}
+#yui3-css-stamp.cssreset-context {
+  display: none;
+}
